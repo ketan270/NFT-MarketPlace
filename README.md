@@ -23,7 +23,7 @@
 4. 💻 [Contributers](#contributers)
 5. 🎉 [Special Announcement](#announcement)
 
-<br><br>
+<br>
 
 ## 🤖 <a name="Introduction">Introduction</a>
 
